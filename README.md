@@ -17,7 +17,7 @@ The objective of this project was to develop a comprehensive digital marketing s
 ## Content:
 
 - **Defined the company's objectives, including overall business goals and digital marketing targets:**
-  - `Current Marketing Strategies Analysis`: Evaluate Sanest's existing marketing strategies, including their presence on digital platforms (website, social media, online ads), strengths, and weaknesses in digital campaigns.
+  - `Current Marketing Strategies Analysis`: Evaluate Sanest's existing marketing strategies, including their performance on digital platforms (website, social media, online ads), strengths, and weaknesses in digital campaigns.
 
   - `Market and Consumer Behavior Analysis in the Digital Era`: Assess the shift in consumer purchasing behavior, especially the trend toward online shopping. Understand the needs and expectations of target customers, both traditional buyers and younger generations.
 
