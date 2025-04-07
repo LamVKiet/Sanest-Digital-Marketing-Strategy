@@ -21,7 +21,7 @@ The objective of this project was to develop a comprehensive digital marketing s
 
   - `Market and Consumer Behavior Analysis in the Digital Era`: Assess the shift in consumer purchasing behavior, especially the trend toward online shopping. Understand the needs and expectations of target customers, both traditional buyers and younger generations.
 
-  - `Optimized Digital Marketing Strategy for Sanest`: Propose tailored digital marketing strategies and tools to enhance brand awareness, increase customer engagement, and optimize online sales. This includes SEO, Google Ads, social media marketing, email marketing, and creative content strategies,...
+  - `Optimized Digital Marketing Strategy for Sanest`: Propose appropriate digital marketing strategies and tools to enhance brand awareness, increase customer engagement, and optimize online sales. This includes SEO, Google Ads, social media marketing, email marketing, and creative content strategies,...
     
 - **Conducted market research: customer segmentation analysis, competitor analysis, and macro environment analysis:**
   - `Customer segmentation`: Segment customers into four key types of market segmentation: demographic, geographic, psychographic, and behavioral.
